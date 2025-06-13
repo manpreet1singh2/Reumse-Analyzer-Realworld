@@ -6,7 +6,7 @@ A sophisticated, AI-powered resume analysis platform that provides personalized 
 
 ## 🌟 Live Demo
 
-**[🚀 Try it Live]([https://your-app-url.netlify.app](https://unique-frangollo-9c7c54.netlify.app/))**
+**[🚀 Try it Live](https://unique-frangollo-9c7c54.netlify.app/)**
 
 *Experience the power of AI-driven resume analysis with real-time feedback and professional insights.*
 
